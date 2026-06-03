@@ -8,6 +8,7 @@ MoonBot permet de piloter ses bots directement depuis un navigateur, sans instal
 
 ## Fonctionnalités principales
 
+
 ### Combat intelligent
 
 MoonBot intègre une IA de combat configurable avec gestion des sorts, ciblage avancé, placement stratégique, invocations, défis, auto-boost des sorts et des caractéristiques. Le système est pensé pour s’adapter à toutes les classes de Dofus Retro.
